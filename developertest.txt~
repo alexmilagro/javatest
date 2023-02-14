@@ -2,5 +2,10 @@ hello 2 branch developer
 local local local
 
 new new new
+<<<<<<< HEAD
+ddddd
+=======
+ssassasss
 
+>>>>>>> 5edb62fdad1e7c69e6ffbd605c712040c20e4f8b
 
